@@ -1,6 +1,4 @@
 package Lab1;
-/*      Comp3111LEX\Lab1\mainApp1.java
-        main application for Lab1 exercise */
 
 public class mainApp1 {
     public static void main(String[] args) {
